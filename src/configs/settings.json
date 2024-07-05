@@ -1,0 +1,13 @@
+{
+"banLimit": 5,
+  "jailLimit": 5,
+  "warnLimit": 5,
+  "chatmuteLimit": 5,
+  "voicemuteLimit": 5,
+  "kayıtsızLimit": 5,
+  "isimLimit": 5,
+  "vipLimit": 5,
+  "taggesLimit": 5,
+  "vipLimit": 5,
+  "kayitsizLimit": 5
+}

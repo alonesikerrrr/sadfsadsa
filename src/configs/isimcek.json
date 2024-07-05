@@ -1,0 +1,80 @@
+{
+"kanalcek":{
+   "logkatagori":"log",
+   "levelbilgi":"level-bilgi",
+   "leaderboard":"leaderboard",
+   "komutlog":"komut-log",
+   "taglilog":"taglı-log",
+   "rollog":"rol-log",
+   "messagelog":"mesaj-log",
+   "ranklog":"rank-log",
+   "voicelog":"ses-log",
+   "yetkilog":"yetki-log",
+   "marketlog":"market-log",
+   "namelog":"isim-log",
+   "hatalog":"hata-log",
+   "dmlog":"botdm-log",
+   "verilog":"veri-log",
+   "itirafkanal": "itiraf-et",
+   "itiraflog": "itiraf-log",
+
+   "botcommands":"commands",
+   "shipchannel":"ship"
+},
+
+"rolcek":{
+   "etkinlikayraç":"▬▬・etk・▬▬",
+   "çekilişk":"Çekiliş Katılımcısı",
+   "etkinlikk":"Etkinlik Duyuru",
+
+   "ilişkiayraç":"▬▬・İlişki・▬▬",
+   "sevgilimvar":"Sevgilim Var 💍",
+   "sevgilimyok":"Sevgilim Yok 💔",
+   "nomanit":"No Manit No Dırdır 🤍",
+   "lgbt":"LGBT 🏳️‍🌈",
+
+   "takımayraç":"▬▬・Takım・▬▬",
+   "galatasaray":"GS Galatasaray",
+   "fenerbahçe":"FB Fenerbahçe",
+   "beşiktaş":"BJK Beşiktaş",
+   "trabzonspor":"TS Trabzonspor",
+
+   "renkayraç":"▬▬・Renk・▬▬▬",
+   "mv":"Mavi",
+   "syh":"Siyah",
+   "mr":"Mor",
+   "sr":"Yeşil",
+   "trnc":"Turuncu",
+   "ysl":"Yeşil",
+   "krmz":"Kırmızı",
+
+   "burçayraç":"▬▬・Burç・▬▬",
+   "koç":"Koç | ♈",
+   "boğa":"Boğa | ♉",
+   "ikizler":"İkizler | ♊",
+   "yengeç":"Yengeç | ♋",
+   "aslan":"Aslan | ♌",
+   "başak":"Başak | ♍",
+   "terazi":"Terazi | ♎",
+   "akrep":"Akrep | ♏",
+   "yay":"Yay | ♐",
+   "oğlak":"Oğlak | ♑",
+   "kova":"Kova | ♒",
+   "balık":"Balık | ♓",
+
+   "oyunayraç":"▬▬・Oyun・▬▬",
+   "graticio":"Gartic.io",
+   "vampirk":"Vampir Köylü",
+   "doğrulukc":"Doğruluk - Cesaret",
+   "amongus":"Among US",
+   "csgo":"CS:GO",
+   "minecraft":"Minecraft",
+   "valorant":"Valorant",
+   "gta5":"Gta V",
+   "lol":"League Of Legends",
+   "fortnite":"Fortnite",
+   "mlbb":"Mobile Legends",
+   "pubg":"Pubg"
+}
+
+}
